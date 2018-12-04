@@ -1,18 +1,22 @@
 html
 body{
-  background-image: url(../FCCTributePage/images/bg.png);
+  background-color: rgb(66, 66, 66);
   font-family:"Trebuchet MS", Helvetica, sans-serif;
   text-align:center;
   min-width:260px;
 }
 
 h1 {
-  margin: .25em;
+  margin: .5em .25em .1em .25em;
+}
+
+h2 {
+  text-align:center;
 }
 
 img {
   max-width: 100%;
-  border-radius: 5px 5px 0px 0px;
+  border-radius: 15px 15px 0px 0px;
 }
 
 /* ----Grid Layouts---- */
@@ -28,7 +32,7 @@ img {
   grid-template-rows: auto;
   grid-template-columns: minmax(100%, 1024px);
   background-color: rgb(223, 223, 223);
-  border-radius: 5px;
+  border-radius: 15px;
 }
 
 /* ----Text Styles---- */
