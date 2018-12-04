@@ -1,5 +1,5 @@
 # FCCTributePage
-##FCC Responsive Webdesign Project
+## FCC Responsive Webdesign Project
 This project is a responsive website design challenge from the freecodecamp.org curriculm. The objective was to create a codepen.io app that was functionally similar to [this](https://codepen.io/freeCodeCamp/full/zNqgVx).
 
    You can find my codepen [here](https://codepen.io/tylersassatelli/pen/jpBVzg).
